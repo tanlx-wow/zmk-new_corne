@@ -93,7 +93,7 @@ layers:
   - PG DN
   - {t: '$$mdi:transfer$$', type: trans}
   - Sft+Ctl+ $$mdi:apple-keyboard-command$$
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - {t: '$$mdi:transfer$$', type: trans}
   - INS
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
