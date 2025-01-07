@@ -45,7 +45,7 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - NUMBER
   - {t: '$$mdi:keyboard-space$$', h: Fn}
-  - {t: '$$mdi:keyboard-return$$', h: 'Meh+ $$mdi:apple-keyboard-command$$'}
+  - {t: '$$mdi:keyboard-return$$', h: 'Meh+$$mdi:apple-keyboard-command$$'}
   - SYMBOL
   - $$mdi:apple-keyboard-option$$
   NUMBER:
@@ -62,7 +62,7 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - {t: '$$mdi:backspace$$', type: backspace}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - Sft+Ctl+$$mdi:apple-keyboard-command$$
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
@@ -111,7 +111,7 @@ layers:
   - (
   - )
   - {t: '$$mdi:backspace$$', type: backspace}
-  - Sft+ $$mdi:apple-keyboard-command$$
+  - Sft+$$mdi:apple-keyboard-command$$
   - $$mdi:bluetooth-off$$
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:mouse-scroll-wheel$$
