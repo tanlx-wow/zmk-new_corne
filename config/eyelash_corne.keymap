@@ -53,7 +53,7 @@
 
         Clear-all-bluetooth {
             bindings = <&bt BT_CLR_ALL>;
-            key-positions = <1 2 15 14 29 30 46>;
+            key-positions = <46 1 14 29>;
             layers = <2>;
             require-prior-idle-ms = <0>;
             timeout-ms = <50>;
