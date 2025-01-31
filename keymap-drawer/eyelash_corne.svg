@@ -1086,13 +1086,11 @@ rect.held, rect.combo.held {
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
 <g class="combo combopos-0">
-<path d="M237,131 l440,75" class="combo"/>
-<path d="M237,131 l-136,-73" class="combo"/>
-<path d="M237,131 l-134,-23" class="combo"/>
-<path d="M237,131 l-134,26" class="combo"/>
-<rect rx="6" ry="6" x="223" y="118" width="28" height="26" class="combo"/>
-<text x="237" y="131" class="combo tap">
-<tspan x="237" dy="-0.6em">BT</tspan><tspan x="237" dy="1.2em">…</tspan>
+<path d="M84,105 l0,-37" class="combo"/>
+<path d="M84,105 l0,37" class="combo"/>
+<rect rx="6" ry="6" x="70" y="92" width="28" height="26" class="combo"/>
+<text x="84" y="105" class="combo tap">
+<tspan x="84" dy="-0.6em">BT</tspan><tspan x="84" dy="1.2em">…</tspan>
 </text>
 </g>
 </g>

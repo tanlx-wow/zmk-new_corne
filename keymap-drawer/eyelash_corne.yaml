@@ -196,6 +196,6 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
-- p: [46, 1, 14, 29]
+- p: [1, 14, 29]
   k: BT CLR ALL
   l: [SYMBOL]
