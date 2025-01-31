@@ -198,4 +198,4 @@ layers:
 combos:
 - p: [0, 1, 2, 15, 14, 13, 28, 29, 30]
   k: BT CLR ALL
-  l: [Fn]
+  l: [SYMBOL]
