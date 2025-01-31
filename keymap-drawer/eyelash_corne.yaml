@@ -77,7 +77,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - HOME
   - PG UP
-  - BT CLR ALL
+  - {t: '$$mdi:transfer$$', type: trans}
   - RGB OFF
   - RGB ON
   - {t: '$$mdi:transfer$$', type: trans}
@@ -195,3 +195,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+combos:
+- p: [0, 1, 2, 15, 14, 13, 28, 29, 30]
+  k: BT CLR ALL
+  l: [Fn]
