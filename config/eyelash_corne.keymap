@@ -55,6 +55,8 @@
             bindings = <&bt BT_CLR_ALL>;
             key-positions = <0 1 2 15 14 13 28 29 30>;
             layers = <2>;
+            require-prior-idle-ms = <0>;
+            timeout-ms = <50>;
         };
     };
 
