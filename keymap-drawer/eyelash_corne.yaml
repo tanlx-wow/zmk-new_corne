@@ -62,7 +62,7 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - {t: '$$mdi:backspace$$', type: backspace}
-  - Sft+Ctl+$$mdi:apple-keyboard-command$$
+  - {t: '$$mdi:transfer$$', type: trans}
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
@@ -199,3 +199,6 @@ combos:
 - p: [1, 14, 29]
   k: BT CLR ALL
   l: [SYMBOL]
+- p: [13, 28, 43]
+  k: Sft+Ctl+$$mdi:apple-keyboard-command$$
+  l: [NUMBER]
