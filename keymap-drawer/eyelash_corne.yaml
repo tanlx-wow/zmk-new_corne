@@ -197,7 +197,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
 - p: [1, 14, 29]
-  k: BT CLR ALL
+  k: $$mdi:bluetooth-off$$
   l: [SYMBOL]
 - p: [13, 28, 43]
   k: Sft+Ctl+$$mdi:apple-keyboard-command$$

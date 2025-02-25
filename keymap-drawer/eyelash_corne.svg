@@ -36,6 +36,9 @@
 <svg id="mdi:bluetooth-connect">
 <svg xmlns="http://www.w3.org/2000/svg" id="mdi-bluetooth-connect" viewBox="0 0 24 24"><path d="M19,10L17,12L19,14L21,12M14.88,16.29L13,18.17V14.41M13,5.83L14.88,7.71L13,9.58M17.71,7.71L12,2H11V9.58L6.41,5L5,6.41L10.59,12L5,17.58L6.41,19L11,14.41V22H12L17.71,16.29L13.41,12M7,12L5,10L3,12L5,14L7,12Z" /></svg>
 </svg>
+<svg id="mdi:bluetooth-off">
+<svg xmlns="http://www.w3.org/2000/svg" id="mdi-bluetooth-off" viewBox="0 0 24 24"><path d="M13,5.83L14.88,7.71L13.28,9.31L14.69,10.72L17.71,7.7L12,2H11V7.03L13,9.03M5.41,4L4,5.41L10.59,12L5,17.59L6.41,19L11,14.41V22H12L16.29,17.71L18.59,20L20,18.59M13,18.17V14.41L14.88,16.29" /></svg>
+</svg>
 <svg id="mdi:brightness-7">
 <svg xmlns="http://www.w3.org/2000/svg" id="mdi-brightness-7" viewBox="0 0 24 24"><path d="M12,8A4,4 0 0,0 8,12A4,4 0 0,0 12,16A4,4 0 0,0 16,12A4,4 0 0,0 12,8M12,18A6,6 0 0,1 6,12A6,6 0 0,1 12,6A6,6 0 0,1 18,12A6,6 0 0,1 12,18M20,8.69V4H15.31L12,0.69L8.69,4H4V8.69L0.69,12L4,15.31V20H8.69L12,23.31L15.31,20H20V15.31L23.31,12L20,8.69Z" /></svg>
 </svg>
@@ -1105,9 +1108,7 @@ rect.held, rect.combo.held {
 <path d="M84,105 l0,-37" class="combo"/>
 <path d="M84,105 l0,37" class="combo"/>
 <rect rx="6" ry="6" x="70" y="92" width="28" height="26" class="combo"/>
-<text x="84" y="105" class="combo tap">
-<tspan x="84" dy="-0.6em">BT</tspan><tspan x="84" dy="1.2em">…</tspan>
-</text>
+<use href="#mdi:bluetooth-off" xlink:href="#mdi:bluetooth-off" x="75" y="96" height="18" width="18.0" class="combo tap glyph mdi:bluetooth-off"/>
 </g>
 </g>
 </g>
