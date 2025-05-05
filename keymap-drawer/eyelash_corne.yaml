@@ -13,7 +13,7 @@ layers:
   - I
   - O
   - P
-  - $$mdi:keyboard-esc$$
+  - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:apple-keyboard-shift$$
   - A
   - S
@@ -48,7 +48,7 @@ layers:
   - {t: '$$mdi:keyboard-space$$', h: Fn}
   - {t: '$$mdi:keyboard-return$$', h: 'Meh+$$mdi:apple-keyboard-command$$'}
   - SYMBOL
-  - Fn
+  - {t: '$$mdi:keyboard-esc$$', h: Fn}
   NUMBER:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '1', s: '!'}
