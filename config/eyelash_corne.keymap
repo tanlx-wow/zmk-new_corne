@@ -63,7 +63,7 @@
 
         screen_cut_prefix {
             bindings = <&kp LG(LC(LEFT_SHIFT))>;
-            key-positions = <28 42>;
+            key-positions = <28 13>;
             layers = <1>;
         };
     };
