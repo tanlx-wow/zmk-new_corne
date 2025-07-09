@@ -829,7 +829,7 @@ rect.held, rect.combo.held {
 <path d="M114,158 l-67,2" class="combo"/>
 <path d="M114,158 l154,46" class="combo"/>
 <rect rx="6" ry="6" x="100" y="145" width="28" height="26" class="combo"/>
-<use href="#mdi:apple-keyboard-command" xlink:href="#mdi:apple-keyboard-command" x="105" y="149" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-command"/>
+<use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="105" y="149" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
 </g>
 </g>
 </g>

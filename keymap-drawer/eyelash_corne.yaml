@@ -250,5 +250,5 @@ combos:
   k: $$mdi:bluetooth-off$$
   l: [SYMBOL]
 - p: [13, 28, 43]
-  k: Sft+Ctl+$$mdi:apple-keyboard-command$$
+  k: Gui+Ctl+$$mdi:apple-keyboard-shift$$
   l: [NUMBER]
