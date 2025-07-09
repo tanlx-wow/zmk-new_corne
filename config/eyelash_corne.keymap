@@ -62,7 +62,7 @@
         };
 
         gui_shift_ctrl {
-            bindings = <&kp LS(LC(LEFT_GUI))>;
+            bindings = <&kp LG(LC(LSHIFT))>;
             key-positions = <13 28 43>;
             layers = <1>;
         };
